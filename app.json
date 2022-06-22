@@ -21,8 +21,8 @@
       "required": true
     }
   },
-  "website": "https://github.com/tomneeb/heroku-vless",
-  "repository": "https://github.com/tomneeb/heroku-vless",
+  "website": "https://github.com/mailtu/tomneebb",
+  "repository": "https://github.com/mailtu/tomneebb",
   "stack": "container",
   "features": [
     "runtime-dyno-metadata"
